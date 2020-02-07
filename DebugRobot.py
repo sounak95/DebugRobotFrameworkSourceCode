@@ -1,7 +1,7 @@
 import sys
 
-# sys.path.append('D:\\UTF\\UnifiedTestFramework\\Libraries\\REST\\HttpLibraryExtended')
-# sys.path.append('D:\\UTF\\UnifiedTestFramework\\Libraries\\Common')
+# sys.path.append('D:\\TestFramework\\Libraries\\REST\\HttpLibraryExtended')
+# sys.path.append('D:\\TestFramework\\Libraries\\Common')
 sys.path.append('D:\\test2\\test11')
 
 # from GenericLib import GenericLib
